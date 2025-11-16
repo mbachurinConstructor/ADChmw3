@@ -1,4 +1,3 @@
-````markdown
 # My Tetris AI Report
 
 > In this assignment I had to:
@@ -182,4 +181,3 @@ The absolute numbers depend on the beam width and runtime, but qualitatively the
 - I also included screenshots of the console logs that show how the behaviour changed with each modification.
 
 Overall, I turned the original heuristic player into a safer and more strategic Tetris agent.
-````
